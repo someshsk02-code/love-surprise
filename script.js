@@ -1,0 +1,1 @@
+function next(n){document.querySelectorAll('section').forEach(s=>s.hidden=true);document.getElementById('p'+n).hidden=false;}
